@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/rjah.king/">
-  <img src="https://raw.githubusercontent.com/nnnnnnnn/mir-hussain/main/images/cover.svg" />
+  <img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/cover.svg" />
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
