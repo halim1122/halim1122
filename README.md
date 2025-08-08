@@ -39,9 +39,7 @@
 
 ## :eyes: Current overview
 
-<div align="left">
-<a href="https://app.daily.dev/mir"><img align="right" src="https://github.com/mir-hussain/mir-hussain/blob/main/devcard.svg" width="200" alt="Abdul Halim's Dev Card"/></a>
-</div>
+Abdul Halim's Dev Card
 
 ### 🔭 I’m working – On real-world frontend projects using React.
 ### 🌱 I’m exploring – Backend with Node.js and Firebase Auth.
