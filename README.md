@@ -11,7 +11,11 @@
 ## :mailbox: Reach me out
 
 <br />
-<a href="https://www.linkedin.com/in/abdul-halim8"><img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png" height=75></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdul-halim8"><img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png" height=75></a>
+  <a href="https://www.linkedin.com/in/abdul-halim8"><img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png" height=75></a>
+  <a href="https://www.linkedin.com/in/abdul-halim8"><img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png" height=75></a>
+</p>
 [<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/abdul-halim8)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/rjah.king)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://x.com/md_halim32127)
 
 <br />
